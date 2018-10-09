@@ -8,7 +8,7 @@ description: >-
 
 ![](.gitbook/assets/logaritmic_universe-copy.jpg)
 
-<img src=".gitbook/assets/logaritmic_universe_full.jpg" width="600" height="100%" align="middle"/>
+![](.gitbook/assets/logaritmic_universe_full.jpg)
 
 
 
