@@ -4,11 +4,11 @@ description: Logarithmic scale of the observable single-universe
 
 # Whole universe in a single image
 
-## ARTISTIC VIEW
+## ARTISTIC CIRCULAR VIEW
 
 ![](.gitbook/assets/logaritmic_universe-copy.jpg)
 
-## SCIENTIFIC DETAILS
+## DETAILED SCIENTIFIC LINEAR VIEW 
 
 ![Large scale structure](.gitbook/assets/logaritmic_universe_part6.jpg)
 
