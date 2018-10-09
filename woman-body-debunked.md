@@ -36,8 +36,4 @@
 ![](.gitbook/assets/Woman_body33.jpg)
 ![](.gitbook/assets/Woman_body34.jpg)
 ![](.gitbook/assets/Woman_body35.jpg)
-![](.gitbook/assets/Woman_body36.jpg)
-![](.gitbook/assets/Woman_body37.jpg)
-![](.gitbook/assets/Woman_body38.jpg)
-![](.gitbook/assets/Woman_body39.jpg)
 
