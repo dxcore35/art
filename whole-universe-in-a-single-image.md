@@ -6,7 +6,7 @@ description: Logarithmic scale of the observable single-universe
 
 ## ARTISTIC CIRCULAR VIEW
 
-![](.gitbook/assets/logaritmic_universe-copy.jpg)
+![Entire universe, starting with the solar system and ending with the cosmic background radiation.](.gitbook/assets/logaritmic_universe-copy.jpg)
 
 ## DETAILED SCIENTIFIC LINEAR VIEW 
 
@@ -22,5 +22,8 @@ description: Logarithmic scale of the observable single-universe
 
 ![Near Earth](.gitbook/assets/logaritmic_universe_part1.jpg)
 
+## RESOURCES
 
+[https://commons.wikimedia.org/wiki/File:Observable\_universe\_logarithmic\_illustration.png](https://commons.wikimedia.org/wiki/File:Observable_universe_logarithmic_illustration.png)  
+[https://www.astro.princeton.edu/universe/](https://www.astro.princeton.edu/universe/)
 
