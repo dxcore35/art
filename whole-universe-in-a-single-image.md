@@ -14,13 +14,13 @@ description: Logarithmic scale of the observable single-universe
 
 ![Local group](.gitbook/assets/logaritmic_universe_part5.jpg)
 
-![Galaxy](.gitbook/assets/logaritmic_universe_part4.jpg)
+![Galaxy](.gitbook/assets/logaritmic_universe_part4%20%281%29.jpg)
 
-![Oort cloud](.gitbook/assets/logaritmic_universe_part3.jpg)
+![Oort cloud](.gitbook/assets/logaritmic_universe_part3%20%281%29.jpg)
 
-![Solar system](.gitbook/assets/logaritmic_universe_part2.jpg)
+![Solar system](.gitbook/assets/logaritmic_universe_part2%20%281%29.jpg)
 
-![Near Earth](.gitbook/assets/logaritmic_universe_part1.jpg)
+![Near Earth](.gitbook/assets/logaritmic_universe_part1%20%281%29.jpg)
 
 ## RESOURCES
 
