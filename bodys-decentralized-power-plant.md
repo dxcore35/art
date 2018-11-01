@@ -1,10 +1,3 @@
----
-description: >-
-  Mitochondria are the cell's energy-producing organelles and they contain their
-  own DNA (mtDNA). They are energy converter, determinator, generator (of
-  reactive oxygen chemicals), enhancer & more ...
----
-
 # Body's decentralized power plant
 
 ![](.gitbook/assets/mito1.jpg)
