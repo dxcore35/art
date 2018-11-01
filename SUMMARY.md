@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Realistic painting of womans](realistic-painting-of-womans.md)
 * [The views of our single-universe](whole-universe-in-a-single-image.md)
-* [Woman body debunked](woman-body-debunked.md)
+* [Exploration of woman body](exploration-of-woman-body.md)
+* [Body's decentralized power plant](bodys-decentralized-power-plant.md)
+* [Electric universe](electric-universe.md)
 
