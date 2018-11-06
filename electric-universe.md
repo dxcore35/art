@@ -134,6 +134,10 @@ description: >-
 
 ![](.gitbook/assets/eu_space1.jpg)
 
+## VIDEO
+
+{% embed url="https://www.youtube.com/playlist?list=PLwOAYhBuU3Uez8f1P6ZyYdI90Egln3rX5" %}
+
 ## RESOURCES
 
 [https://www.youtube.com/user/ThunderboltsProject](https://www.youtube.com/user/ThunderboltsProject)  
