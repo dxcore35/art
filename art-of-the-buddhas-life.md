@@ -1,9 +1,3 @@
----
-description: >-
-  Painting of the chapters from the Buddha. Taken from the really old Burmese
-  book.
----
-
 # Art of the Buddha's life
 
 ## BRIEF TIMELINE
