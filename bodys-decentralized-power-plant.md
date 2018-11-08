@@ -1,9 +1,3 @@
----
-description: >-
-  Energy converter, determinator, generator (of reactive oxygen chemicals),
-  enhancer, provider of genetic history with their own DNA (mtDNA),
----
-
 # Decentralized bio-power plant
 
 Mitochondria are considered the "power houses" of eukaryotic cells. These organelles generate power by converting energy into forms that are usable by the cell. Located in the cytoplasm, mitochondria are the sites of cellular respiration. Cellular respiration is a process that ultimately generates fuel for the cell's activities from the foods we eat. Mitochondria produce the energy required to perform processes such as cell division, growth, and cell death.
