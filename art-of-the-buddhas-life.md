@@ -52,6 +52,8 @@
 
 ![](.gitbook/assets/lifeofbuddha25.jpg)
 
+![](.gitbook/assets/LifeOfBuddha27.jpg)
+
 ![](.gitbook/assets/lifeofbuddha21.jpg)
 
 ![](.gitbook/assets/lifeofbuddha28.jpg)
