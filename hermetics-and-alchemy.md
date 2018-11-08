@@ -29,7 +29,6 @@ Being present since the beginning of the Christian era, it expresses a synthesis
 ![](.gitbook/assets/hermetics_alchemy10.jpg)
 ![](.gitbook/assets/hermetics_alchemy11.jpg)
 ![](.gitbook/assets/hermetics_alchemy12.jpg)
-![](.gitbook/assets/hermetics_alchemy13.jpg)
 ![](.gitbook/assets/hermetics_alchemy14.jpg)
 ![](.gitbook/assets/hermetics_alchemy15.jpg)
 ![](.gitbook/assets/hermetics_alchemy16.jpg)
