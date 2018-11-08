@@ -2,7 +2,7 @@
 description: Logarithmic scale of the observable single-universe
 ---
 
-# The views of our single-universe
+# Logarithmic single-universe
 
 ## ARTISTIC CIRCULAR VIEW
 

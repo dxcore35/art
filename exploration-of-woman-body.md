@@ -82,3 +82,7 @@
 
 ![](.gitbook/assets/woman_body29%20%281%29.jpg)
 
+## VIDEO
+
+{% embed url="https://www.youtube.com/watch?v=HSICtMwwAbQ" %}
+
