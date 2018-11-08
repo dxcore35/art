@@ -6,6 +6,12 @@ description: >-
 
 # Art of the Buddha's life
 
+## BRIEF TIMELINE
+
+![](.gitbook/assets/page-1.svg)
+
+## GRAPHIC & SUMMARY
+
 ![](.gitbook/assets/lifeofbuddha00.jpg)
 
 SUMEDHA, the wise man inherited a vast fortune from his parents who left them upon their deaths. Realizing the unsatisfactoriness he gave away his fortune and became an ascetic in the forest. He soon gained mastery in meditation and was well known for his supernormal powers.
